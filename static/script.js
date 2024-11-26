@@ -1,4 +1,4 @@
-﻿const API_URL = "https://your-backend-url.com/api";
+﻿const API_URL = "https://ichoyou.netlify.app/";
 
 document.getElementById('start').addEventListener('click', () => {
     fetch(`${API_URL}/users`)
